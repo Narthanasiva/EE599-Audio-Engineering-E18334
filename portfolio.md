@@ -3,6 +3,7 @@
 ## Linear Synthesiser
 Description and example of the Linear Synthesiser used in the class.
 
+
 ## Non-linear Synthesiser
 Details about the Non-linear Synthesiser.
 
