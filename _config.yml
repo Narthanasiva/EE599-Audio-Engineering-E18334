@@ -1,0 +1,8 @@
+theme: jekyll-theme-minimal
+title: EE599 : Audio Engineering - E/18/334
+description: A brief description of your portfolio
+author: E/18/334
+
+# Menu items
+header_pages:
+  - portfolio.md
